@@ -25,10 +25,10 @@
 
 <h3 align="left">I’m currently working on:</h3>  
 
-#### - [Web Scraping & Data Analysis Practice](#)
+### - [Web Scraping & Data Analysis Practice](#)
 <h3 align="left">My previous projects:</h3>
 
-#### - [Task Manager for IT Company](https://github.com/ArtemLeo/it-company-task-manager)
+### - [Task Manager for IT Company](https://github.com/ArtemLeo/it-company-task-manager)
 #### - [Library Service API](https://github.com/ArtemLeo/library-service-api)
 #### - [Airport API Service](https://github.com/ArtemLeo/airport-api-service)
 
