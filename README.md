@@ -4,8 +4,8 @@
 
 <h3>I’m currently working on:</h3> 
 
-### [Web Scraping & Data Analysis Practice](#)
+## [Web Scraping & Data Analysis Practice](#)
 <h3>My previous projects:</h3> 
 
-### [it-company-task-manager](https://github.com/ArtemLeo/it-company-task-manager)
+## [it-company-task-manager](https://github.com/ArtemLeo/it-company-task-manager)
 
