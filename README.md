@@ -32,7 +32,7 @@
 #### - [Library Service API](https://github.com/ArtemLeo/library-service-api)
 #### - [Airport API Service](https://github.com/ArtemLeo/airport-api-service)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArtemLeo9&show_icons=true&locale=en&layout=compact" alt="ArtemLeo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArtemLeo&show_icons=true&locale=en&layout=compact" alt="ArtemLeo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtemLeo&" alt="ArtemLeo" /></p>
 
