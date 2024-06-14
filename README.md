@@ -29,7 +29,7 @@
 <h3 align="left">My previous projects:</h3>
 
 ### - [Task Manager for IT Company](https://github.com/ArtemLeo/it-company-task-manager)
-#### - [Library Service API](https://github.com/ArtemLeo/library-service-api)
-#### - [Airport API Service](https://github.com/ArtemLeo/airport-api-service)
+### - [Library Service API](https://github.com/ArtemLeo/library-service-api)
+### - [Airport API Service](https://github.com/ArtemLeo/airport-api-service)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtemLeo&" alt="ArtemLeo" /></p>
