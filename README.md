@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Artem Andriushchenko </h1>
-<h3 align="center">Python Developer is passionate about crafting efficient and maintainable code.</h3>
-<h3 align="center">Enthusiastic about leveraging Python's versatility across various domains, from web development to data science and automation.</h3>
+<h3 align="left">Python Developer is passionate about crafting efficient and maintainable code.</h3>
+<h3 align="left">Enthusiastic about leveraging Python's versatility across various domains, from web development to data science and automation.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
