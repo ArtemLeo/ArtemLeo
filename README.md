@@ -29,5 +29,5 @@
 <h3 align="left">My previous projects:</h3>
 
 #### - [Task Manager for IT Company](https://github.com/ArtemLeo/it-company-task-manager)
-#### - [Task Manager for IT Company](https://github.com/ArtemLeo/it-company-task-manager)
-
+#### - [Airport API Service](https://github.com/ArtemLeo/airport-api-service)
+#### - [Library Service API](https://github.com/ArtemLeo/library-service-api)
