@@ -33,3 +33,5 @@
 ### - [Airport API Service](https://github.com/ArtemLeo/airport-api-service)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtemLeo&" alt="ArtemLeo" /></p>
+
+https://img.shields.io/badge/LinkedIn-blue
