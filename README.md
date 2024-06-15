@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Artem Leo Andriushchenko </h1>
 
-<p align="center">
-[![LinkenIn](https://img.shields.io/badge/-LinkedIn-FF0000?style=flat&logo=linkedin&logoColor=white)](https://www.youtube.com/c/baggerfast)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/BaggerFast)
-[![Instagram](https://img.shields.io/badge/-Instagram-FF0000?style=flat&logo=instagram&logoColor=white)](https://www.youtube.com/c/baggerfast)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/baggerfast)
-</p>
-
-
 <h2 align="left">Python Developer is passionate about crafting efficient and maintainable code.</h2>
 
 <p align="center">
@@ -16,6 +8,13 @@
 
 
 <h2 align="left">Enthusiastic about leveraging Python's versatility across various domains, from web development to data science and automation.</h2>
+
+
+[![LinkenIn](https://img.shields.io/badge/-LinkedIn-FF0000?style=flat&logo=linkedin&logoColor=white)](https://www.youtube.com/c/baggerfast)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/BaggerFast)
+[![Instagram](https://img.shields.io/badge/-Instagram-FF0000?style=flat&logo=instagram&logoColor=white)](https://www.youtube.com/c/baggerfast)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/baggerfast)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
