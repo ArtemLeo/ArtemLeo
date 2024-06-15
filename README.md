@@ -10,10 +10,10 @@
 <h2 align="left">Enthusiastic about leveraging Python's versatility across various domains, from web development to data science and automation.</h2>
 
 
-[![LinkenIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.youtube.com/c/baggerfast)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/BaggerFast)
-[![Instagram](https://img.shields.io/badge/-Instagram-FF0000?style=flat&logo=instagram&logoColor=white)](https://www.youtube.com/c/baggerfast)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/baggerfast)
+[![LinkenIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andriushchenkoartem/)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/link_by_Artem)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/artem_leo_andriushchenko/)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCD37DtU5wy6cL66eEBkQbDQ)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
