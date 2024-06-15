@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Artem Leo Andriushchenko </h1>
+<h2 align="left">Python Developer is passionate about crafting efficient and maintainable code.</h2>
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-<h2 align="left">Python Developer is passionate about crafting efficient and maintainable code.</h2>
+
 <h2 align="left">Enthusiastic about leveraging Python's versatility across various domains, from web development to data science and automation.</h2>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
