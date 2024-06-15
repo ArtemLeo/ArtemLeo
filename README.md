@@ -1,3 +1,29 @@
+ArtemLeo
+/
+ArtemLeo
+
+Type / to search
+
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Commit
+Update README.md
+ main
+@ArtemLeo
+ArtemLeo committed 14 hours ago 
+1 parent 198a7ae
+commit 7a708e5
+Showing 1 changed file with 1 addition and 1 deletion.
+  2 changes: 1 addition & 1 deletion2  
+README.md
+Original file line number	Diff line number	Diff line change
 <h1 align="center">Hi 👋, I'm Artem Andriushchenko </h1>
 <h2 align="left">Python Developer is passionate about crafting efficient and maintainable code.</h2>
 <h2 align="left">Enthusiastic about leveraging Python's versatility across various domains, from web development to data science and automation.</h2>
@@ -21,7 +47,6 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a></p>
-<a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
 
 <h3 align="left">I’m currently working on:</h3>  
 
