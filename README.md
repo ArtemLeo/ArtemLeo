@@ -1,4 +1,12 @@
 <h1 align="center">Hi 👋, I'm Artem Leo Andriushchenko </h1>
+
+[![LinkenIn](https://img.shields.io/badge/-LinkedIn-FF0000?style=flat&logo=linkedin&logoColor=white)](https://www.youtube.com/c/baggerfast)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/BaggerFast)
+[![Instagram](https://img.shields.io/badge/-Instagram-FF0000?style=flat&logo=instagram&logoColor=white)](https://www.youtube.com/c/baggerfast)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/baggerfast)
+
+
+
 <h2 align="left">Python Developer is passionate about crafting efficient and maintainable code.</h2>
 
 <p align="center">
@@ -42,17 +50,3 @@
 ### - [Airport API Service](https://github.com/ArtemLeo/airport-api-service)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtemLeo&" alt="ArtemLeo" /></p>
-
-
-
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
