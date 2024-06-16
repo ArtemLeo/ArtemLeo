@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Artem Leo Andriushchenko :octocat: </h1>
+<h1 align="center">Hi 👋, I'm Artem Leo Andriushchenko:octocat:</h1>
 
 <h2 align="left">Python Developer is passionate about crafting efficient and maintainable code.</h2>
 
