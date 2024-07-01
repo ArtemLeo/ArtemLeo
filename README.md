@@ -40,7 +40,7 @@
   
 <h3 align="left">I’m currently working on:</h3>  
 
-### - [Web Scraping & Data Analysis Practice](#)
+### - [Web Scraping & Data Analysis Practice](https://github.com/ArtemLeo/web-scraping-data-analysis-djinni.co)
 
 <h3 align="left">My previous projects:</h3>
 
