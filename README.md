@@ -48,5 +48,7 @@
 ### - [Task Manager for IT Company](https://github.com/ArtemLeo/it-company-task-manager)
 ### - [Library Service API](https://github.com/ArtemLeo/library-service-api)
 ### - [Airport API Service](https://github.com/ArtemLeo/airport-api-service)
+### - [The Game Tic-Tac-Toe AI]([https://github.com/ArtemLeo/airport-api-service](https://github.com/ArtemLeo/python-game-tic-tac-toe))
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtemLeo&" alt="ArtemLeo" /></p>
