@@ -37,11 +37,12 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></p>
 
 
-  
 <h3 align="left">I’m currently working on:</h3>  
 
 ### - [Web Scraping & Data Analysis Practice](https://github.com/ArtemLeo/web-scraping-data-analysis-djinni.co)
 ### - [Machine Learning & Image Classification Web App](https://github.com/ArtemLeo/image-classification-web-app)
+
+![my_projects](images/Collage_1.png)
 
 <h3 align="left">My previous projects:</h3>
 
