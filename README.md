@@ -51,5 +51,6 @@
 ### - [Airport API Service](https://github.com/ArtemLeo/airport-api-service)
 ### - [The Game Tic-Tac-Toe AI](https://github.com/ArtemLeo/python-game-tic-tac-toe)
 
+![my_projects](images/Collage_2.png)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtemLeo&" alt="ArtemLeo" /></p>
