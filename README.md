@@ -14,6 +14,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/link_by_Artem)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/artem_leo_andriushchenko/)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCD37DtU5wy6cL66eEBkQbDQ)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-FF0000?style=flat&logo=youtube&logoColor=white)](https://wa.me/380950333760)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
