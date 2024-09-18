@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Artem Leo Andriushchenko</h1>
 
-<h2 align="left">Python Developer is passionate about crafting efficient and maintainable code.</h2>
+<h3 align="left">I’m a motivated software engineer with over a year of Python development experience, specializing in object-oriented programming (OOP), Flask, FastAPI, and Django REST API. I have strong expertise in working with relational databases and optimizing data analysis processes using Python and SQL, delivering scalable and efficient solutions.</h3>
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
