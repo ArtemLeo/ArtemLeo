@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Artem Leo Andriushchenko</h1>
 
-<h3 align="left">I’m a motivated software engineer with over a year of Python development experience, specializing in object-oriented programming (OOP), Flask, FastAPI, and Django REST API. I have strong expertise in working with relational databases and optimizing data analysis processes using Python and SQL, delivering scalable and efficient solutions.</h3>
+<h3 align="left">I’m a motivated software engineer with over a year of Python development experience, specializing in object-oriented programming (OOP), Flask, FastAPI, and Django REST API.</h3>
+<h3 align="left">I have strong expertise in working with relational databases and optimizing data analysis processes using Python and SQL, delivering scalable and efficient solutions.</h3>
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
@@ -40,8 +41,8 @@
 
 <h3 align="left">I’m currently working on:</h3>  
 
-#### - [Web Scraping & Data Analysis Practice](https://github.com/ArtemLeo/web-scraping-data-analysis-djinni.co)
-#### - [Machine Learning & Image Classification Web App](https://github.com/ArtemLeo/image-classification-web-app)
+### - [Web Scraping & Data Analysis Practice](https://github.com/ArtemLeo/web-scraping-data-analysis-djinni.co)
+### - [Machine Learning & Image Classification Web App](https://github.com/ArtemLeo/image-classification-web-app)
 
 ![my_projects](images/Collage_1.png)
 
