@@ -7,8 +7,11 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
+<h3 align="left">In addition to development, I conducted in-depth market and product analyses, providing strategic recommendations that optimized Amazon accounts.</h3>
 
-<h3 align="left">In addition to development, I conducted in-depth market and product analyses, providing strategic recommendations that optimized Amazon accounts. I produced reports using Power BI, Tableau, and Data Studio, and collaborated with PPC teams to exceed client goals. I’ve mentored over 100 teenagers in Python at an IT school, helping them enhance their coding skills and creating a project-based curriculum that boosted engagement and hands-on learning.</h3>
+<h3 align="left">I produced reports using Power BI, Tableau, and Data Studio, and collaborated with PPC teams to exceed client goals.</h3>
+
+<h3 align="left">I’ve mentored over 100 teenagers in Python at an IT school, helping them enhance their coding skills and creating a project-based curriculum that boosted engagement and hands-on learning.</h3>
 
 
 [![LinkenIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andriushchenkoartem/)
