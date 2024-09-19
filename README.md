@@ -12,9 +12,9 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-<h3 align="left">In addition to development, I conducted in-depth market and product analyses, providing strategic recommendations that optimized Amazon accounts.</h3>
-
 <h3 align="left">I produced reports using Power BI, Tableau, and Data Studio, and collaborated with PPC teams to exceed client goals.</h3>
+
+<h3 align="left">I’ve mentored over 100 teenagers in Python at an IT school, helping them enhance their coding skills and creating a project-based curriculum that boosted engagement and hands-on learning.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -36,8 +36,6 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></p>
-
-<h3 align="left">I’ve mentored over 100 teenagers in Python at an IT school, helping them enhance their coding skills and creating a project-based curriculum that boosted engagement and hands-on learning.</h3>
 
 <h3 align="left">I’m currently working on:</h3>  
 
