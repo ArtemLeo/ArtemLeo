@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Artem Leo Andriushchenko</h1>
 
+[![LinkenIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andriushchenkoartem/)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/link_by_Artem)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-FF076E?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/380950333760)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/artem_leo_andriushchenko/)
+
 <h3 align="left">I’m a motivated software engineer with over a year of Python development experience, specializing in object-oriented programming (OOP), Flask, FastAPI, and Django REST API.</h3>
 <h3 align="left">I have strong expertise in working with relational databases and optimizing data analysis processes using Python and SQL, delivering scalable and efficient solutions.</h3>
 
@@ -10,12 +15,6 @@
 <h3 align="left">In addition to development, I conducted in-depth market and product analyses, providing strategic recommendations that optimized Amazon accounts.</h3>
 
 <h3 align="left">I produced reports using Power BI, Tableau, and Data Studio, and collaborated with PPC teams to exceed client goals.</h3>
-
-[![LinkenIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andriushchenkoartem/)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/link_by_Artem)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-FF076E?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/380950333760)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/artem_leo_andriushchenko/)
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
