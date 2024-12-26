@@ -30,7 +30,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
@@ -44,10 +43,79 @@
 ### - [Task Manager for IT Company](https://github.com/ArtemLeo/it-company-task-manager)
 ### - [Library Service API](https://github.com/ArtemLeo/library-service-api)
 ### - [Airport API Service](https://github.com/ArtemLeo/airport-api-service)
-### - [The Game Tic-Tac-Toe AI](https://github.com/ArtemLeo/python-game-tic-tac-toe)
+
 
 ![my_projects](images/Collage_1.png)
 
 ![my_projects](images/Collage_2.png)
+
+## Technologies I used in my projects:
+### Python frameworks:
+- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="15" height="15"/> </a> Django
+- Django REST Framework (DRF)
+- Flask
+- FastAPI
+- AIOHTTP
+- Tornado
+### Testing:
+- Pytest
+- Unittest
+- Selenium (test automation)
+- Locust (load testing)
+- Асинхронні бібліотеки:
+- Asyncio
+- Multiprocessing
+- Threading
+### Queue services:
+- RabbitMQ
+- Kafka
+- Celery
+### Databases SQL:
+- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="15" height="15"/> </a> PostgreSQL
+- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> </a> MySQL
+- <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="15" height="15"/> </a> SQLite
+- ClickHouse
+### Databases NoSQL:
+- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="15" height="15"/> </a> MongoDB
+- <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="15" height="15"/> </a> Redis
+- Elasticsearch
+### DevOps and Infrastructure:
+- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> </a> Docker/Docker Compose
+- Kubernetes (K8s)
+### CI/CD:
+- Gitlab CI
+- Jenkins
+- Bitbucket Pipelines
+### Server utilities:
+- Uvicorn
+- Gunicorn
+- Nginx
+### Cloud services:
+- AWS (S3, EC2)
+- Google Cloud Platform (GCP)
+- DigitalOcean
+- Heroku
+### Tools and technologies:
+- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="15" height="15"/> </a> </a> Git (version control)
+- Jira (task management)
+- Slack
+- PyCharm, VS Code (IDE)
+Front-end development (for Full-Stack developers):
+- React.js
+- Vue.js
+- Tailwind CSS
+- Next.js
+### Additional technologies:
+- GraphQL
+- REST/gRPC
+- Selenium (automated testing)
+- Protobuf
+- JSON, XML (робота з API)
+- OAuth2
+- PyGame: [Tic-Tac-Toe](https://github.com/ArtemLeo/python-game-tic-tac-toe)
+### AI/ML:
+- TensorFlow
+- PyTorch
+- Keras
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtemLeo&" alt="ArtemLeo" /></p>
