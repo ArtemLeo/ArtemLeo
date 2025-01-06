@@ -5,23 +5,17 @@
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-FF076E?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/380950333760)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/artem_leo_andriushchenko/)
 
-<h3 align="left">I’m a motivated software engineer with over a year of Python
-development experience, specializing in object-oriented programming (OOP),
-Flask, FastAPI, and Django REST API.</h3>
-<h3 align="left">I have strong expertise in working with relational databases
-and optimizing data analysis processes using Python and SQL, delivering scalable
-and efficient solutions.</h3>
+▪️ I am a goal-oriented software engineer specializing in Python. I have experience working in both a small startup environment and a mid-sized company with up to 100 employees.
+▪️During this time, I have completed several projects that highlight my expertise in Python, object-oriented programming (OOP), Flask, FastAPI, Django REST, business analysis, dashboard development, and the use of relational databases.
+▪️My GitHub also showcases projects in data analytics and machine learning. Over the past two years, I have developed the ability to adapt to challenges and significantly enhanced my time management skills.
+
+Gmail: artem.andriushchenko.dev@gmail.com
+Telegram: t.me/link_by_Artem
+GitHub: github.com/ArtemLeo
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
-<h3 align="left">I produced reports using Power BI, Tableau, and Data Studio,
-and collaborated with PPC teams to exceed client goals.</h3>
-
-<h3 align="left">I’ve mentored over 100 teenagers in Python at an IT school,
-helping them enhance their coding skills and creating a project-based curriculum
-that boosted engagement and hands-on learning.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
