@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Artem Leo Andriushchenko</h1>
+<h1 align="center">Hi 👋, I'm Artem Andriushchenko</h1>
 
 [![LinkenIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andriushchenkoartem/)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/link_by_Artem)
