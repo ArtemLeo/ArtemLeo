@@ -36,13 +36,7 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></p>
 
-<h3 align="left">My previous projects:</h3>
 
-### - [Web Scraping & Data Analysis Practice](https://github.com/ArtemLeo/web-scraping-data-analysis-djinni.co)
-### - [Machine Learning & Image Classification Web App](https://github.com/ArtemLeo/image-classification-web-app)
-### - [Task Manager for IT Company](https://github.com/ArtemLeo/it-company-task-manager)
-### - [Library Service API](https://github.com/ArtemLeo/library-service-api)
-### - [Airport API Service](https://github.com/ArtemLeo/airport-api-service)
 
 
 ![my_projects](images/Collage_1.png)
@@ -52,17 +46,34 @@
 ## Technologies I used in my projects:
 ### Python frameworks:
 - <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="35" height="35"/> </a> Django
-- Django REST Framework (DRF)
-- Flask
-- FastAPI
-- AIOHTTP
-- Tornado
+  
+- <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
+  <img src="https://techicons.dev/static/icons/djangorest.svg" alt="Django REST Framework" width="35" height="35"/>
+</a> Django REST Framework
+
+- <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="35" height="35"/>
+</a> Flask
+
+- <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="35" height="35"/>
+</a> FastAPI
+
+- <a href="https://docs.aiohttp.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aiohttp/aiohttp-original.svg" alt="AIOHTTP" width="35" height="35"/>
+</a> AIOHTTP
+
+- <a href="https://www.tornadoweb.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tornado/tornado-original.svg" alt="Tornado" width="35" height="35"/>
+</a> Tornado
+
+
 ### Testing:
 - Pytest
 - Unittest
 - Selenium (test automation)
 - Locust (load testing)
-- Асинхронні бібліотеки:
+### Asynchronous libraries:
 - Asyncio
 - Multiprocessing
 - Threading
@@ -100,7 +111,7 @@
 - Jira (task management)
 - Slack
 - PyCharm, VS Code (IDE)
-Front-end development (for Full-Stack developers):
+### Front-end development (for Full-Stack developers):
 - React.js
 - Vue.js
 - Tailwind CSS
@@ -117,5 +128,13 @@ Front-end development (for Full-Stack developers):
 - TensorFlow
 - PyTorch
 - Keras
+
+<h3 align="left">My previous projects:</h3>
+
+### - [Web Scraping & Data Analysis Practice](https://github.com/ArtemLeo/web-scraping-data-analysis-djinni.co)
+### - [Machine Learning & Image Classification Web App](https://github.com/ArtemLeo/image-classification-web-app)
+### - [Task Manager for IT Company](https://github.com/ArtemLeo/it-company-task-manager)
+### - [Library Service API](https://github.com/ArtemLeo/library-service-api)
+### - [Airport API Service](https://github.com/ArtemLeo/airport-api-service)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtemLeo&" alt="ArtemLeo" /></p>
