@@ -6,8 +6,8 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/artem_leo_andriushchenko/)
 
 ▪️ I am a goal-oriented software engineer specializing in Python. I have experience working in both a small startup environment and a mid-sized company with up to 100 employees.<br>
-▪️During this time, I have completed several projects that highlight my expertise in Python, object-oriented programming (OOP), Flask, FastAPI, Django REST, business analysis, dashboard development, and the use of relational databases.<br>
-▪️My GitHub also showcases projects in data analytics and machine learning. Over the past two years, I have developed the ability to adapt to challenges and significantly enhanced my time management skills.<br><br>
+▪️ During this time, I have completed several projects that highlight my expertise in Python, object-oriented programming (OOP), Flask, FastAPI, Django REST, business analysis, dashboard development, and the use of relational databases.<br>
+▪️ My GitHub also showcases projects in data analytics and machine learning. Over the past two years, I have developed the ability to adapt to challenges and significantly enhanced my time management skills.<br>
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
@@ -32,12 +32,9 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></p>
 
+<img src="images/Collage_1.png" alt="my_projects" width="600">
 
-
-
-![my_projects](images/Collage_1.png)
-
-![my_projects](images/Collage_2.png)
+<img src="images/Collage_2.png" alt="my_projects" width="600">
 
 ## Technologies I used in my projects:
 
@@ -152,7 +149,7 @@
   <img src="https://nextjs.org/static/favicon/favicon.ico" alt="Next.js" width="35" height="35"/></a> Next.js
 
 ### Additional technologies:
-- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> Pandas: [Web Scraping & Data Analysis Practice](https://github.com/ArtemLeo/web-scraping-data-analysis-djinni.co)
+- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> Pandas: [Web Scraping & Data Analysis Practice](https://github.com/ArtemLeo/web-scraping-data-analysis-djinni.co)
 - GraphQL
 - REST/gRPC
 - Protobuf
