@@ -39,10 +39,11 @@
 ## Technologies I used in my projects:
 
 ### Python frameworks:
-
+- <a href="https://docs.python.org/3/library/unittest.html" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="unittest" width="40" height="40"/></a>Python Core
 - <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a> Django: [IT Company Task Manager](https://github.com/ArtemLeo/it-company-task-manager)
 
-- <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/django.svg" alt="drf" width="40" height="40"/></a> Django REST Framework: [Library Service API](https://github.com/ArtemLeo/library-service-api), [Airport API Service](https://github.com/ArtemLeo/airport-api-service)
+- <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/django.svg" alt="drf" width="40" height="40"/></a> Django REST Framework: [Library Service API](https://github.com/ArtemLeo/library-service-api) | [Airport API Service](https://github.com/ArtemLeo/airport-api-service)
 
 - <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="35" height="35"/></a> Flask
@@ -59,8 +60,7 @@
 - <a href="https://docs.pytest.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="pytest" width="40" height="40"/></a>Pytest
 
-- <a href="https://docs.python.org/3/library/unittest.html" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="unittest" width="40" height="40"/></a>Unittest
+- Unittest
 
 - <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" width="35" height="35"/></a> Selenium (test automation)
