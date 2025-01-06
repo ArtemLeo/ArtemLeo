@@ -53,11 +53,9 @@ that boosted engagement and hands-on learning.</h3>
 
 ### Python frameworks:
 
-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a> Django: [Task Manager for IT Company](https://github.com/ArtemLeo/it-company-task-manager)
+- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a> Django: [IT Company Task Manager](https://github.com/ArtemLeo/it-company-task-manager)
 
-- <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/django.svg" alt="drf" width="40" height="40"/></a> Django REST Framework
+- <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/django.svg" alt="drf" width="40" height="40"/></a> Django REST Framework: [Library Service API](https://github.com/ArtemLeo/library-service-api), [Airport API Service](https://github.com/ArtemLeo/airport-api-service)
 
 - <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="35" height="35"/></a> Flask
@@ -129,7 +127,7 @@ that boosted engagement and hands-on learning.</h3>
 
 ### Server utilities:
 
-- Uvicorn
+- Uvicorn: [IT Company Task Manager](https://github.com/ArtemLeo/it-company-task-manager)
 - Gunicorn
 - Nginx
 
@@ -164,7 +162,7 @@ that boosted engagement and hands-on learning.</h3>
   <img src="https://nextjs.org/static/favicon/favicon.ico" alt="Next.js" width="35" height="35"/></a> Next.js
 
 ### Additional technologies:
-
+- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> Pandas: [Web Scraping & Data Analysis Practice](https://github.com/ArtemLeo/web-scraping-data-analysis-djinni.co)
 - GraphQL
 - REST/gRPC
 - Protobuf
@@ -178,17 +176,6 @@ that boosted engagement and hands-on learning.</h3>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>TensorFlow
 - <a href="https://pytorch.org" target="_blank" rel="noreferrer">
   <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="35" height="35"/></a>PyTorch
--
-Keras: [Machine Learning & Image Classification Web App](https://github.com/ArtemLeo/image-classification-web-app)
-
-<h3 align="left">My previous projects:</h3>
-
-### - [Web Scraping & Data Analysis Practice](https://github.com/ArtemLeo/web-scraping-data-analysis-djinni.co)
-
-### -
-
-### - [Library Service API](https://github.com/ArtemLeo/library-service-api)
-
-### - [Airport API Service](https://github.com/ArtemLeo/airport-api-service)
+- Keras: [Machine Learning & Image Classification Web App](https://github.com/ArtemLeo/image-classification-web-app)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtemLeo&" alt="ArtemLeo" /></p>
