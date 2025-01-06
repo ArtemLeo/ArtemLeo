@@ -5,13 +5,9 @@
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-FF076E?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/380950333760)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/artem_leo_andriushchenko/)
 
-▪️ I am a goal-oriented software engineer specializing in Python. I have experience working in both a small startup environment and a mid-sized company with up to 100 employees.
-▪️During this time, I have completed several projects that highlight my expertise in Python, object-oriented programming (OOP), Flask, FastAPI, Django REST, business analysis, dashboard development, and the use of relational databases.
-▪️My GitHub also showcases projects in data analytics and machine learning. Over the past two years, I have developed the ability to adapt to challenges and significantly enhanced my time management skills.
-
-Gmail: artem.andriushchenko.dev@gmail.com
-Telegram: t.me/link_by_Artem
-GitHub: github.com/ArtemLeo
+▪️ I am a goal-oriented software engineer specializing in Python. I have experience working in both a small startup environment and a mid-sized company with up to 100 employees.<br>
+▪️During this time, I have completed several projects that highlight my expertise in Python, object-oriented programming (OOP), Flask, FastAPI, Django REST, business analysis, dashboard development, and the use of relational databases.<br>
+▪️My GitHub also showcases projects in data analytics and machine learning. Over the past two years, I have developed the ability to adapt to challenges and significantly enhanced my time management skills.<br><br>
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
