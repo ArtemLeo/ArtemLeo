@@ -38,7 +38,6 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
@@ -51,14 +50,12 @@
 ---
 
 ## My GitHub Stats:
-<div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArtemLeo&theme=github" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtemLeo&theme=github" />
 
-</div>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArtemLeo&theme=github" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtemLeo&theme=github" />
 
 
-## Technologies I used in my projects:
+## Technologies used in projects:
 
 ### Python frameworks:
 - <a href="https://docs.python.org/3/library/unittest.html" target="_blank" rel="noreferrer">
