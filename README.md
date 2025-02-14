@@ -146,7 +146,9 @@ the ability to adapt to challenges and significantly enhanced my time management
 
 ___
 
-<a href="https://u8views.com/github/AtremLeo"><img src="https://u8views.com/api/v1/github/profiles/105164053/views/day-week-month-total-count.svg"></a>
+<a href="https://u8views.com/github/AtremLeo">  
+   <img src="https://u8views.com/api/v1/github/profiles/115661003/views/day-week-month-total-count.svg">
+</a>
 
 
 <img src="images/Collage_1.png" alt="my_projects" width="600">
