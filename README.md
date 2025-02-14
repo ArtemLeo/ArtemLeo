@@ -145,20 +145,3 @@ the ability to adapt to challenges and significantly enhanced my time management
 </div>
 
 ___
-
-<a href="https://u8views.com/github/AtremLeo">  
-   <img src="https://u8views.com/api/v1/github/profiles/115661003/views/day-week-month-total-count.svg">
-</a>
-
-
-<img src="images/Collage_1.png" alt="my_projects" width="600">
-
-<img src="images/Collage_2.png" alt="my_projects" width="600">
-
----
-
-<h3 align="left">My GitHub Stats:</h3>
-<a href="https://github.com/ArtemLeo/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=ArtemLeo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="GitHub Stats" /></a>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtemLeo&theme=github" />
-
----
