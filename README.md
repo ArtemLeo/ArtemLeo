@@ -38,8 +38,8 @@ the ability to adapt to challenges and significantly enhanced my time management
       <br>Git
     </td>
     <td align="center" width="88">
-         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" title="ubuntu" width="40" height="40"/></a>
-      <br>Ubuntu
+          <a href="https://slack.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="40" height="40"/></a>
+      <br>Slack
     </td>
     <td align="center" width="88">
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
@@ -50,8 +50,8 @@ the ability to adapt to challenges and significantly enhanced my time management
       <br>MySQL
     </td>
     <td align="center" width="88">
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-      <br>HTML
+       <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
+       <br>K8s
     </td>
     <td align="center" width="88">
         <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a> 
@@ -78,9 +78,6 @@ the ability to adapt to challenges and significantly enhanced my time management
         <br>Celery 
     </td>  
     <td align="center" width="88">
-       <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
-       <br>K8s
-    <td align="center" width="88">
        <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
        <br>Kafka
     </td>
@@ -106,8 +103,8 @@ the ability to adapt to challenges and significantly enhanced my time management
       <br>Docker
     </td>
     <td align="center" width="88">
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-      <br>CSS
+      <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/> </a>
+      <br>RabbitMQ
     </td>
     <td align="center" width="88">
         <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
@@ -128,14 +125,6 @@ the ability to adapt to challenges and significantly enhanced my time management
     <td align="center" width="88">
          <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="pytest" width="50" height="50"/></a>
       <br>Pytest
-    </td>
-    <td align="center" width="88">
-          <a href="https://slack.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="40" height="40"/></a>
-      <br>Slack
-    </td>
-    <td align="center" width="88">
-      <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/> </a>
-      <br>RabbitMQ
     </td>
   </table>
 </div>
