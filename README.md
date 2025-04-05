@@ -69,10 +69,6 @@ the ability to adapt to challenges and significantly enhanced my time management
        <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="35" height="35"/></a>
        <br>FastAPI
     </td>  
-    <td align="center" width="88">
-        <a href="https://docs.celeryproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/celery.svg" alt="celery" width="40" height="40"/></a>
-        <br>Celery 
-    </td>  
     </tr>
     <td align="center" width="88">
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="pycharm" width="40" height="40"/> </a>
@@ -99,8 +95,8 @@ the ability to adapt to challenges and significantly enhanced my time management
       <br>RabbitMQ
     </td>
     <td align="center" width="88">
-        <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-      <br>Redis
+         <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="pytest" width="50" height="50"/></a>
+      <br>Pytest
     </td>
     <td align="center" width="88">
         <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
@@ -111,13 +107,9 @@ the ability to adapt to challenges and significantly enhanced my time management
       <br>Postman
     </td>
     <td align="center" width="88">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="88">
-         <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="pytest" width="50" height="50"/></a>
-      <br>Pytest
-    </td>
+        <a href="https://docs.celeryproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/celery.svg" alt="celery" width="40" height="40"/></a>
+        <br>Celery 
+    </td>  
   </table>
 </div>
 
