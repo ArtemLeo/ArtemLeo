@@ -54,8 +54,8 @@ the ability to adapt to challenges and significantly enhanced my time management
       <br>HTML
     </td>
     <td align="center" width="88">
-        <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-      <br>SQLite
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a> 
+      <br>VSCode
     </td>
     <td align="center" width="88">
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
@@ -128,10 +128,6 @@ the ability to adapt to challenges and significantly enhanced my time management
     <td align="center" width="88">
          <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="pytest" width="50" height="50"/></a>
       <br>Pytest
-    </td>
-    <td align="center" width="88">
-        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a> 
-      <br>VSCode
     </td>
     <td align="center" width="88">
           <a href="https://slack.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="40" height="40"/></a>
