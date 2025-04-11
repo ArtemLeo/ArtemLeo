@@ -65,10 +65,6 @@ the ability to adapt to challenges and significantly enhanced my time management
       <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="35" height="35"/></a>
       <br>Flask
     </td> 
-    <td align="center" width="88">
-       <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="35" height="35"/></a>
-       <br>FastAPI
-    </td>  
     </tr>
     <td align="center" width="88">
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="pycharm" width="40" height="40"/> </a>
@@ -99,9 +95,9 @@ the ability to adapt to challenges and significantly enhanced my time management
       <br>Pytest
     </td>
     <td align="center" width="88">
-        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-      <br>Pandas
-     </td>
+       <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="35" height="35"/></a>
+       <br>FastAPI
+    </td>  
     <td align="center" width="88">
         <a href="https://docs.celeryproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/celery.svg" alt="celery" width="40" height="40"/></a>
         <br>Celery 
