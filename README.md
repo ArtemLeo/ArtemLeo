@@ -103,10 +103,6 @@ the ability to adapt to challenges and significantly enhanced my time management
       <br>Pandas
      </td>
     <td align="center" width="88">
-        <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-      <br>Postman
-    </td>
-    <td align="center" width="88">
         <a href="https://docs.celeryproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/celery.svg" alt="celery" width="40" height="40"/></a>
         <br>Celery 
     </td>  
