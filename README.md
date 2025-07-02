@@ -7,13 +7,9 @@
 
 ---
 
-▪️ I am a goal-oriented software engineer specializing in Python. I have experience working in both a small startup
-environment and a mid-sized company with up to 100 employees.<br>
-▪️ During this time, I have completed several projects that highlight my expertise in Python, object-oriented
-programming (OOP), Flask, FastAPI, Django REST, business analysis, dashboard development, and the use of relational
-databases.<br>
-▪️ My GitHub also showcases projects in data analytics and machine learning. Over the past two years, I have developed
-the ability to adapt to challenges and significantly enhanced my time management skills.<br>
+▪️ I am a motivated software engineer specializing in Python. I have experience in both small startups and mid-sized companies with up to 100 employees.<br>
+▪️ During this time, I have completed several projects that highlight my expertise in Python, object-oriented programming (OOP), Flask, FastAPI, Django REST and relational database usage.<br>
+▪️ My GitHub also showcases projects and technologies I’ve used. Over the past year, I have developed my ability to adapt to challenges and greatly improved my time management skills.<br>
 
 ---
 
