@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Artem Andriushchenko</h1>
+<h1 align="center">Hi 👋, I'm Artem</h1>
 
-[![LinkenIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andriushchenkoartem/)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/link_by_Artem)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-FF076E?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/380950333760)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/artem_leo_andriushchenko/)
+[![LinkenIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]()
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)]()
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-FF076E?style=flat&logo=whatsapp&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]()
 
 ---
 
