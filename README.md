@@ -106,4 +106,3 @@
 <img src="images/Collage_2.png" alt="my_projects" width="600">
 
 ---
-
