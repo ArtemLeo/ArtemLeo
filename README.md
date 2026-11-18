@@ -1,108 +1,58 @@
-[![LinkenIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]()
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)]()
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-FF076E?style=flat&logo=whatsapp&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]()
+<div align="center">
+
+# Artem Andriushchenko · Python Backend Developer
+
+Building reliable APIs and maintainable backend services with Python and relational databases.<br/>
+Turning ideas into practical software and continuously improving how I build it.
+
+</div>
 
 ---
 
-▪️ Hi, I am a motivated software engineer specializing in Python. I have experience in both small startups and mid-sized companies with up to 100 employees.<br>
-▪️ During this time, I have completed several projects that highlight my expertise in Python, object-oriented programming (OOP), Flask, FastAPI, Django REST and relational database usage.<br>
-▪️ My GitHub also showcases projects and technologies I’ve used. Over the past year, I have developed my ability to adapt to challenges and greatly improved my time management skills.<br>
+## Tech stack
+
+<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="42" alt="Python"/><br/>Python</td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="42" alt="FastAPI"/><br/>FastAPI</td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=django&theme=dark" width="42" alt="Django"/><br/>Django</td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=flask&theme=dark" width="42" alt="Flask"/><br/>Flask</td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="42" alt="Docker"/><br/>Docker</td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="42" alt="Git"/><br/>Git</td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="42" alt="Linux"/><br/>Linux</td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="42" alt="GitHub"/><br/>GitHub</td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="42" alt="AWS"/><br/>AWS</td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=terraform&theme=dark" width="42" alt="Terraform"/><br/>Terraform</td>
+  </tr>
+  <tr>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" width="42" alt="RabbitMQ"/><br/>RabbitMQ</td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="42" alt="PostgreSQL"/><br/>PostgreSQL</td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="42" alt="MySQL"/><br/>MySQL</td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="42" alt="MongoDB"/><br/>MongoDB</td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="42" alt="Redis"/><br/>Redis</td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="42" alt="HTML"/><br/>HTML</td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="42" alt="TypeScript"/><br/>TypeScript</td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=vue&theme=dark" width="42" alt="Vue"/><br/>Vue</td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="42" alt="React"/><br/>React</td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="42" alt="Java"/><br/>Java</td>
+  </tr>
+</table>
+</div>
 
 ---
+
+## Projects
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+  <img src="images/project-banner.png" alt="MacBook showing restaurant reservations alongside Docker, FastAPI, PostgreSQL and Django admin" width="100%" />
+  <img src="images/project-banner-2.png" alt="Desktop image classifier and mobile menu alongside vacancy analytics, GitHub, Terraform and RabbitMQ" width="100%" />
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-
-
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-     <td align="center"  width="88">
-         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
-      <br>Python
-    </td>
-    <td align="center" width="88">
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-      <br>Git
-    </td>
-    <td align="center" width="88">
-          <a href="https://slack.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="40" height="40"/></a>
-      <br>Slack
-    </td>
-    <td align="center" width="88">
-        <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-      <br>Django
-    </td>
-    <td align="center" width="88">
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="88">
-       <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
-       <br>K8s
-    </td>
-    <td align="center" width="88">
-        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a> 
-      <br>VSCode
-    </td>
-    <td align="center" width="88">
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="88">
-      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="35" height="35"/></a>
-      <br>Flask
-    </td> 
-    </tr>
-    <td align="center" width="88">
-        <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="pycharm" width="40" height="40"/> </a>
-      <br>PyCharm
-    </td>
-    <td align="center" width="88"> 
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-      <br>Linux
-    </td>
-    <td align="center"  width="88">
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" title="windows11" width="40" height="40"/> </a>
-      <br>Windows
-    </td>
-    <td align="center" width="88">
-        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-      <br>PostgreSQL
-    </td>
-      <td align="center" width="88">
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-      <br>Docker
-    </td>
-    <td align="center" width="88">
-      <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/> </a>
-      <br>RabbitMQ
-    </td>
-    <td align="center" width="88">
-         <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="pytest" width="50" height="50"/></a>
-      <br>Pytest
-    </td>
-    <td align="center" width="88">
-       <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="35" height="35"/></a>
-       <br>FastAPI
-    </td>  
-    <td align="center" width="88">
-        <a href="https://docs.celeryproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/celery.svg" alt="celery" width="40" height="40"/></a>
-        <br>Celery 
-    </td>  
-  </table>
-</div>
-
-<img src="images/Collage_1.png" alt="my_projects" width="600">
-
-<a href="https://u8views.com/github/ArtemLeo"><img src="https://u8views.com/api/v1/github/profiles/115661003/views/day-week-month-total-count.svg"></a>
-
-<img src="images/Collage_2.png" alt="my_projects" width="600">
-
----
+<p align="center">
+  <a href="https://github.com/ArtemLeo">
+    <img src="assets/github-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
+  </a>
+</p>
