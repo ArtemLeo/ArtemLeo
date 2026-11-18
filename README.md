@@ -7,9 +7,13 @@ Turning ideas into practical software and continuously improving how I build it.
 
 </div>
 
----
+### Projects
 
-## Tech stack
+<p align="center">
+  <img src="images/project-showcase-1.png" alt="MacBook showing restaurant reservations alongside Docker, FastAPI, PostgreSQL and Django admin" width="100%" />
+</p>
+
+### Tech stack
 
 <div align="center">
 <table align="center">
@@ -39,20 +43,6 @@ Turning ideas into practical software and continuously improving how I build it.
   </tr>
 </table>
 </div>
-
----
-
-## Projects
-
-<p align="center">
-  <img src="images/project-showcase-1.png" alt="MacBook showing restaurant reservations alongside Docker, FastAPI, PostgreSQL and Django admin" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ArtemLeo">
-    <img src="assets/github-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
-  </a>
-</p>
 
 <p align="center">
   <img src="images/project-showcase-2.png" alt="Desktop image classifier and mobile menu alongside vacancy analytics, GitHub, Terraform and RabbitMQ" width="100%" />
