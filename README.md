@@ -45,7 +45,7 @@ Turning ideas into practical software and continuously improving how I build it.
 ## Projects
 
 <p align="center">
-  <img src="images/project-banner.png" alt="MacBook showing restaurant reservations alongside Docker, FastAPI, PostgreSQL and Django admin" width="100%" />
+  <img src="images/project-banner.png?v=95385dd" alt="MacBook showing restaurant reservations alongside Docker, FastAPI, PostgreSQL and Django admin" width="100%" />
 </p>
 
 <p align="center">
@@ -55,5 +55,5 @@ Turning ideas into practical software and continuously improving how I build it.
 </p>
 
 <p align="center">
-  <img src="images/project-banner-2.png" alt="Desktop image classifier and mobile menu alongside vacancy analytics, GitHub, Terraform and RabbitMQ" width="100%" />
+  <img src="images/project-banner-2.png?v=95385dd" alt="Desktop image classifier and mobile menu alongside vacancy analytics, GitHub, Terraform and RabbitMQ" width="100%" />
 </p>
