@@ -7,10 +7,6 @@ Turning ideas into practical software and continuously improving how I build it.
 
 </div>
 
----
-
-## Tech stack
-
 <div align="center">
 <table align="center">
   <tr>
